@@ -1,3 +1,2 @@
-#Nehemie KOFFI
-##UX/UI Designer, Front-end Web Developer
+UX/UI Designer, Front-end Web Developer
 nehemiekoffi@gmail.com
